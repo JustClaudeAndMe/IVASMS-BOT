@@ -1,0 +1,7 @@
+python-telegram-bot==20.7
+requests
+beautifulsoup4
+python-socketio[client]
+websocket-client==1.6.4
+curl_cffi
+httpx==0.25.2
