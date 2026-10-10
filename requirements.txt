@@ -5,3 +5,5 @@ python-socketio[client]
 websocket-client==1.6.4
 curl_cffi
 httpx==0.25.2
+python-socketio[client]==5.11.0
+python-engineio==4.9.0
